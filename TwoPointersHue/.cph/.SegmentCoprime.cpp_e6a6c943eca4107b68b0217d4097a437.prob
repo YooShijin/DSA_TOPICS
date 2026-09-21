@@ -1,0 +1,1 @@
+{"name":"Local: SegmentCoprime","url":"/home/asmit/Desktop/ProCoding/DSA_Topics/TwoPointersHue/SegmentCoprime.cpp","tests":[{"id":1787669359784,"input":"5\n4 6 9 3 6\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asmit/Desktop/ProCoding/DSA_Topics/TwoPointersHue/SegmentCoprime.cpp","group":"local","local":true}

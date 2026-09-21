@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/home/asmit/Desktop/ProCoding/DSA_Topics/SuffixArray/B.CountingSubstrings.cpp","tests":[{"id":1765529185939,"input":"ababba\n3\nba\nbaba\nabba\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asmit/Desktop/ProCoding/DSA_Topics/SuffixArray/B.CountingSubstrings.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: SplittingAnArray","url":"/home/asmit/Desktop/ProCoding/DSA_Topics/BInarySearch/SplittingAnArray.cpp","tests":[{"id":1785335752514,"input":"10 4\n1 3 2 4 10 8 4 2 5 3\n","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asmit/Desktop/ProCoding/DSA_Topics/BInarySearch/SplittingAnArray.cpp","group":"local","local":true}

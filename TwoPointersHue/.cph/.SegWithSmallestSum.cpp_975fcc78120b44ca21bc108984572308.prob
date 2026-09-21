@@ -1,0 +1,1 @@
+{"name":"Local: SegWithSmallestSum","url":"/home/asmit/Desktop/ProCoding/DSA_Topics/TwoPointersHue/SegWithSmallestSum.cpp","tests":[{"id":1785676844657,"input":"7 20\n2 6 4 3 6 8 9\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asmit/Desktop/ProCoding/DSA_Topics/TwoPointersHue/SegWithSmallestSum.cpp","group":"local","local":true}

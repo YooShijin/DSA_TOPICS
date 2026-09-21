@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"/home/asmit/Desktop/ProCoding/DSA_Topics/RangeMinimum/B.FriendsAndSubsequence.cpp","tests":[{"id":1765435858481,"input":"6\n1 2 3 2 1 4\n6 7 1 2 3 2\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asmit/Desktop/ProCoding/DSA_Topics/RangeMinimum/B.FriendsAndSubsequence.cpp","group":"local","local":true}

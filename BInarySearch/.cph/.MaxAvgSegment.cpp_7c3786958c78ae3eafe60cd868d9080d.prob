@@ -1,0 +1,1 @@
+{"name":"Local: MaxAvgSegment","url":"/home/asmit/Desktop/ProCoding/DSA_Topics/BInarySearch/MaxAvgSegment.cpp","tests":[{"id":1785386512373,"input":"6 2\n3 1 8 5 7 2\n","output":"3 5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asmit/Desktop/ProCoding/DSA_Topics/BInarySearch/MaxAvgSegment.cpp","group":"local","local":true}
