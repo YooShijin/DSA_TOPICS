@@ -120,12 +120,13 @@ void solve()
     {
         cin >> v[i];
     }
-    ll S = 300;
+
+    ll S = sqrtl(n);
     vll sq;
     for (int i = 0; i < n; i += S)
     {
-        ll temp = v[i];
-        for (int j = i + 1; j < min(i + S, n); j++)
+        ll temp = LLONG_MAX;
+        for (int j = i; j < min(i + S, n); j++)
         {
             temp = min(temp, v[j]);
         }
@@ -137,7 +138,7 @@ void solve()
     {
         ll l, r;
         cin >> l >> r;
-        ll ans = INT_MAX;
+        ll ans = LLONG_MAX;
         while (l <= r)
         {
             if (l % S == 0 && l + S <= r)
@@ -160,8 +161,8 @@ int main()
 {
     ios::sync_with_stdio(0);
     cin.tie(0);
-    ll t;
-    cin >> t;
+    ll t = 1;
+    // cin >> t;
     while (t--)
     {
         solve();
