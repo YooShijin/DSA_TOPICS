@@ -1,5 +1,4 @@
 // Asmit Kumar 15 oct 2026
-<<<<<<< HEAD
 // Problem: pick exactly K nodes from a rooted tree to maximize their value sum,
 //          with the rule that you cannot pick two nodes where one is an ancestor
 //          of the other.
@@ -10,10 +9,6 @@
 //            the "O(n * K * K) looking" version, though the inner work is already
 //            bounded by O(n * K) because of the maxK2 cutoff.
 
-=======
-// This is naive DP on tree so t.c. is O(n*k*k) ---> Amortized O(n*k)
-// Select exactly k nodes to get the max sum, can't select two nodes where one is ancestor of other
->>>>>>> 6b301b8 (chagnes)
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
